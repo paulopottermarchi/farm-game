@@ -78,9 +78,10 @@ Press Play starting from the MainMenu or farm entry scene
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/09afd9f3-82e4-461b-8331-3d361dbe7945" />
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/180c256a-155c-4d05-a7f7-8fd017cee515" />
-
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/33f7e6af-a87b-4498-b5e9-bdeca2e66d6c" />
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/c7f7da66-3c74-4fc1-8e0e-a8ccdc2f1aa0" />
+
 
 
 📄 License
