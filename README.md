@@ -1,5 +1,5 @@
 🌱 Farm Life
-Farm Life is a 2D Unity-based farm game that merges productivity with relaxation. Designed especially for students, developers, the player grows their farm while respecting time cycles—making progress through real-life focus and consistent routines.
+ is a 2D Unity-based farm game that merges productivity with relaxation. Designed especially for students, developers, the player grows their farm while respecting time cycles—making progress through real-life focus and consistent routines.
 
 🎮 Key Features
 🌾 Planting and crop growth with time-based logic
